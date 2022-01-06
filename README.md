@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋 I am Amrit Anand !!
 
 - 🔭 I’m currently working on Frontend Web Development.
 - 🌱 I’m currently learning React Js.
