@@ -1,5 +1,7 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrit12001703"/>
+
 ### Hey 👋 I am Amrit Anand !!
+<br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrit12001703"/>
 
 - 🔭 I’m currently working on Frontend Web Development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amrit-anand-579728159/) , [G-Mail](amritanand8271@gmail.com) 
