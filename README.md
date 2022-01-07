@@ -4,7 +4,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrit12001703"/>
 
 - 🔭 I’m currently working on Frontend Web Development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amrit-anand-579728159/) , [G-Mail](amritanand8271@gmail.com) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amrit-anand-579728159/) , [G-Mail](https://mail.google.com/mail/amritanand8271@gmail.com) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Eat Sleep Code Repeat <- <br>
 
