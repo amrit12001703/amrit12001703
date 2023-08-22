@@ -28,7 +28,7 @@
 <br>
 
 
-<img  align="center" src ="https://github-readme-stats.vercel.app/api?username=amrit12001703&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+![Amrits's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrit12001703&show_icons=true&theme=radical)
 
 
 
