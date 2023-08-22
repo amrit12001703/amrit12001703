@@ -1,7 +1,8 @@
 
 ### Hey 👋 I am Amrit Anand !!
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=amrit12001703&show_icons=true&theme=radical/>
+
+![Amrits's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrit12001703&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on JAVA, Spring Boot, Postgre SQL.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amrit-anand-579728159/) , [Instagram](https://www.instagram.com/its__amrit__singh__/) 
