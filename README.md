@@ -2,7 +2,7 @@
 ### Hey 👋 I am Amrit Anand !!
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5)
 
 - 🔭 I’m currently working on JAVA, Spring Boot, Postgre SQL.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amrit-anand-579728159/) , [Instagram](https://www.instagram.com/its__amrit__singh__/) 
